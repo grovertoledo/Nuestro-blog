@@ -15,7 +15,7 @@ body {
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
-    
+    font-family: "Arial";
 }
 
 #cabecera #tagline {
